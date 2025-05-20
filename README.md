@@ -30,6 +30,9 @@ python filename.py
 ```
 All 19 table files will be created in the `tables/` folder.
 
+## How to extract
+Download and extract `tables.zip` to access all generated multiplication tables.
+
 ## Author
 **Raunak Raj**  
 Python Enthusiast | Beginner Developer  
